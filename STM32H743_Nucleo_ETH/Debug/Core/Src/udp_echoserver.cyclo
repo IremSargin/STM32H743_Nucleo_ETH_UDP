@@ -1,0 +1,4 @@
+../Core/Src/udp_echoserver.c:18:6:udp_echoserver_init	3
+../Core/Src/udp_echoserver.c:43:6:send_menu	2
+../Core/Src/udp_echoserver.c:61:6:control_leds	4
+../Core/Src/udp_echoserver.c:83:6:udp_echoserver_receive_callback	4
